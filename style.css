@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+p{
+background-color: black;
+padding: 30px;
+color:#FFF;
+font-size: 1.3rem;
+width: 100%;
+}
+span{
+    color: #FFF;
+    margin: 20px;
+}
